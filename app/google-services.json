@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "234264151983",
+    "firebase_url": "https://esp32-higronometro.firebaseio.com",
+    "project_id": "esp32-higronometro",
+    "storage_bucket": "esp32-higronometro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234264151983:android:67aa8aedc9bae0be",
+        "android_client_info": {
+          "package_name": "higrometro.projeto.com.higrometro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234264151983-400q3bh4vuthctoh1inbf8u049hkpslg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "higrometro.projeto.com.higrometro",
+            "certificate_hash": "81fbb8e8f8e0219b42f0b4a837f90daa5aab333b"
+          }
+        },
+        {
+          "client_id": "234264151983-86ts007tcfv5tgtmknpidblvbha4ia18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy-AoPmXigImhJmg_xUOQ_PdJ_2DIYVGs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234264151983-86ts007tcfv5tgtmknpidblvbha4ia18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
